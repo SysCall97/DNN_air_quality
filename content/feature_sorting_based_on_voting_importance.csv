@@ -1,0 +1,10 @@
+importance_gain,chi_square,fisher_score,correlation,variance_threshold
+CO,CO,CO,CO,Population_Density
+Proximity_to_Industrial_Areas,Proximity_to_Industrial_Areas,Proximity_to_Industrial_Areas,NO2,PM10
+NO2,NO2,NO2,Temperature,PM2.5
+SO2,Population_Density,Temperature,SO2,Humidity
+Temperature,Temperature,SO2,Population_Density,NO2
+Population_Density,Humidity,Population_Density,Humidity,SO2
+Humidity,SO2,Humidity,PM10,Temperature
+PM10,PM10,PM10,PM2.5,Proximity_to_Industrial_Areas
+PM2.5,PM2.5,PM2.5,Proximity_to_Industrial_Areas,CO
